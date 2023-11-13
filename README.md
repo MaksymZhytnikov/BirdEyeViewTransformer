@@ -25,11 +25,11 @@ In order to decrease the effect of model detection inaccuracy, normalization was
 
 ![frame_res](media/frame_res.png)
 
-![bird_viewV2](media/bird_viewV2.mp4)
+![bird_viewV2](media/bird_viewV2.gif)
 
 
 # 📈 Analytics
 
 **Bird Eye View Transformer** counts the amount of unique cars which were present on specific image region. 
 
-![analytics.gif](experiments/analytics.gif)
+![analytics.gif](media/analytics.gif)
