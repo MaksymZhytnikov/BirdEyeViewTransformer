@@ -25,6 +25,8 @@ In order to decrease the effect of model detection inaccuracy, normalization was
 
 ![frame_res](media/frame_res.png)
 
+Due to lack of computation resourses, I used the YoloV8 nano version -> detected bounding boxes suddenly disappear. As a result, BirdEyeView is unstable in the Gif below.
+
 ![bird_viewV2](media/bird_viewV2.gif)
 
 
