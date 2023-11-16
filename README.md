@@ -17,7 +17,7 @@
 
 # 🧬 Normalization
 
-In order to decrease the effect of model detection inaccuracy, normalization was introdused.
+In order to decrease the effect of model detection inaccuracy, normalization was introduced.
 
 ![normalization](media/normalization.png)
 
